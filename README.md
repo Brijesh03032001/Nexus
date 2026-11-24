@@ -8,14 +8,14 @@
 
 **Never lose a great connection again.** Contact writes stay fast because AI enrichment never sits on the save path — Kafka carries it away, four Spring Boot services own their own slice, and a transparent 0-100 health model says who to call next.
 
-[![Java](https://img.shields.io/badge/Java-17-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://openjdk.org/)
-[![Spring Boot](https://img.shields.io/badge/Spring_Boot-3-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)](https://spring.io/projects/spring-boot)
-[![Apache Kafka](https://img.shields.io/badge/Kafka-ingestion-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)](https://kafka.apache.org/)
-[![RabbitMQ](https://img.shields.io/badge/RabbitMQ-workers-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)](https://rabbitmq.com/)
-[![Redis](https://img.shields.io/badge/Redis-ElastiCache-DC382D?style=for-the-badge&logo=redis&logoColor=white)](https://redis.io/)
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)](https://postgresql.org/)
-[![AWS Bedrock](https://img.shields.io/badge/Bedrock_+_FAISS-vector_search-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](https://aws.amazon.com/bedrock/)
-[![Next.js](https://img.shields.io/badge/Next.js-dashboards-black?style=for-the-badge&logo=next.js&logoColor=white)](https://nextjs.org/)
+[![Java 17](https://img.shields.io/badge/Java_17-B36B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://openjdk.org/)
+[![Spring Boot 3](https://img.shields.io/badge/Spring_Boot_3-4C8C2B?style=for-the-badge&logo=springboot&logoColor=white)](https://spring.io/projects/spring-boot)
+[![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)](https://kafka.apache.org/)
+[![RabbitMQ](https://img.shields.io/badge/RabbitMQ-C44F00?style=for-the-badge&logo=rabbitmq&logoColor=white)](https://rabbitmq.com/)
+[![Redis](https://img.shields.io/badge/Redis-C0392B?style=for-the-badge&logo=redis&logoColor=white)](https://redis.io/)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-31648C?style=for-the-badge&logo=postgresql&logoColor=white)](https://postgresql.org/)
+[![AWS Bedrock + FAISS](https://img.shields.io/badge/AWS_Bedrock_%2B_FAISS-232F3E?style=for-the-badge)](https://aws.amazon.com/bedrock/)
+[![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)](https://nextjs.org/)
 
 </div>
 
